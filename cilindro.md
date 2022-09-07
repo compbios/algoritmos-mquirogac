@@ -1,10 +1,23 @@
+Algoritmo Cilindro
+	
+	Escribir "Cálculo del volumen"
+	Escribir"Dar enter"
+	leer var1
+	var1<-3.141592
+	
+	Escribir "Escriba el valor de la altura"
+	Leer var2
+	
+	Escribir "Escriba el valor del radio "
+	Leer var3
+	
+	multiplicacion=real1*var2*(var3^2)
 
-Algoritmo sin_titulo
-	Definir a Como Entero
-	Leer a
-	Si a MOD 2 = 0 Entonces
-		Escribir "es par"
-	SiNo
-		Escribir "es impar"
-	Fin Si
+	
+	Escribir "El volumen de un cilindro es ",multiplicacion 
+
+	
+	
+	
 FinAlgoritmo
+
